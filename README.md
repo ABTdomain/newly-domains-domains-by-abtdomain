@@ -23,7 +23,7 @@ Each CSV file is named in the format:
 | Column Name       | Description                                  |
 |-------------------|----------------------------------------------|
 | `domain`          | Full domain name (e.g., `coolproject.com`)   |
-| `suffix`          | Top-level domain (TLD), e.g., `com`, `net`, 'xyz'    |
+| `suffix`          | Top-level domain (TLD), e.g., `com`, `net`, `xyz`|
 | `registration_date` | Date the domain was registered (YYYY-MM-DD) |
 | `expiration_date`   | Date the domain is set to expire (YYYY-MM-DD) |
 
