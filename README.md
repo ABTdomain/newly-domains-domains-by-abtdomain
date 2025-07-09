@@ -5,6 +5,11 @@ This repository provides full daily datasets of newly registered domain names, m
 Each file contains **all domain names registered on a specific day**, including their top-level domain (TLD), registration date, and expiration date.
 
 ---
+📚 Data Source
+The dataset is generated from daily zone files, DNS records, and non-personal WHOIS metadata (such as registration and expiration dates).
+No private registrant data is included. We fully respect ICANN and GDPR data protection rules.
+
+ABTdomain combines zone monitoring with registry-level WHOIS timestamps to ensure accurate tracking of domain creation and expiration activity.
 
 ## 📄 Dataset Format
 
@@ -53,3 +58,6 @@ For deep insights like real-time WHOIS lookups (to find the registrar), DNS anal
 
 🔧 Free Online Tools: https://tools.abtdomain.com
 👥 Members Portal: https://members.abtdomain.com
+
+
+
