@@ -5,19 +5,19 @@ This repository provides full daily datasets of newly registered domain names, m
 Each file contains **all domain names registered on a specific day**, including their top-level domain (TLD), registration date, and expiration date.
 
 ---
-📚 Data Source
+## 📚 Data Source
 The dataset is generated from daily zone files, DNS records, and non-personal WHOIS metadata (such as registration and expiration dates).
 No private registrant data is included. We fully respect ICANN and GDPR data protection rules.
 
 ABTdomain combines zone monitoring with registry-level WHOIS timestamps to ensure accurate tracking of domain creation and expiration activity.
 
-## 📄 Dataset Format
+### 📄 Dataset Format
 
 Each CSV file is named in the format:
 /YYYY-MM/newly-YYYY-MM-DD.csv
 
 
-### ✅ Columns
+#### ✅ Columns
 
 | Column Name       | Description                                  |
 |-------------------|----------------------------------------------|
