@@ -44,21 +44,12 @@ Each month has its own folder:
     newly-2025-06-30.csv
     ...
 
-🔗 Attribution & License
-This dataset is provided under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+🔗 License & Full-Featured Platform
 
-You are free to use, copy, distribute, remix, and build upon the data — even commercially — as long as attribution is given.
+This dataset is provided under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use, copy, and build upon this data, even for commercial purposes, as long as you provide attribution to ABTdomain.com.
+While this dataset provides the essential "what" and "when," our full platform provides the "who," "how," and "why."
 
-Please credit the source:
+For deep insights like real-time WHOIS lookups (to find the registrar), DNS analysis, security checks, keyword-based searches, and AI-powered investment reports, please visit our professional toolset:
 
-Data source: ABTdomain.com
-GitHub: https://github.com/ABTdomain/newly-domains-domains-by-abtdomain
-
-📄 License: https://creativecommons.org/licenses/by/4.0/
-
-If you want keyword-based domain searches, WHOIS, DNS, or sales status analysis, visit:
-
-🔧 Tools: https://tools.abtdomain.com
-
+🔧 Free Online Tools: https://tools.abtdomain.com
 👥 Members Portal: https://members.abtdomain.com
-
