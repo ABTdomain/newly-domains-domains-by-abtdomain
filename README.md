@@ -11,6 +11,7 @@ No private registrant data is included. We fully respect ICANN and GDPR data pro
 
 ABTdomain combines zone monitoring with registry-level WHOIS timestamps to ensure accurate tracking of domain creation and expiration activity.
 
+---
 ### 📄 Dataset Format
 
 Each CSV file is named in the format:
